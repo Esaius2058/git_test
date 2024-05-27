@@ -1,0 +1,2 @@
+Hello Ubuntu!
+Hello world...let's commit this file via cmd:)
